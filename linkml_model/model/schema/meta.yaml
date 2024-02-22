@@ -1440,6 +1440,7 @@ slots:
     range: dimension_expression
     multivalued: true
     list_elements_ordered: true
+    required: false
     status: testing
 
   minimum_number_dimensions:
