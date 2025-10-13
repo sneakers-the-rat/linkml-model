@@ -3304,7 +3304,7 @@ classes:
       - expression
     slots:
       - allowed
-      - range_expression
+      - anonymous_slot_expression
 
 
 # ==================================
